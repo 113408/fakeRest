@@ -41,24 +41,6 @@
 			"title": "Title 7",
 			"description": "Description 7",
 			"priority": 5
-		},
-		{
-			"id": 8,
-			"title": "Title 8",
-			"description": "Description 8",
-			"priority": 5
-		},
-		{
-			"id": 9,
-			"title": "Title 9",
-			"description": "Description 9",
-			"priority": 5
-		},
-		{
-			"id": 10,
-			"title": "Title 10",
-			"description": "Description 10",
-			"priority": 5
 		}
 	]
 }
